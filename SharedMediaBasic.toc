@@ -4,6 +4,7 @@
 ## Version: @project-version@
 ## Author: bomi
 ## Category: Miscellaneous
+## X-Curse-Project-ID: 1753071
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
