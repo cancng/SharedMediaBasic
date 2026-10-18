@@ -18,3 +18,9 @@ LSM:Register(STATUSBAR, "Aluminium",  path .. "Aluminium")
 LSM:Register(STATUSBAR, "Charcoal",   path .. "Charcoal")
 LSM:Register(STATUSBAR, "Melli",      path .. "Melli")
 LSM:Register(STATUSBAR, "Melli Dark", path .. "MelliDark")
+
+-- Retail castbar fill (atlas ui-castingbar-filling-standard), cropped from file 4505194
+-- with the rounded end caps trimmed off so it works with addon borders.
+-- The gray one takes the bar color; the other keeps Blizzard's gold.
+LSM:Register(STATUSBAR, "Blizzard Castbar",        path .. "BlizzardCastbar")
+LSM:Register(STATUSBAR, "Blizzard Castbar (Gray)", path .. "BlizzardCastbarGray")
