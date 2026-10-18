@@ -1,0 +1,12 @@
+## Interface: 120105, 120100, 16001
+## Title: Shared Media Basic
+## Notes: Minimal set of classic statusbar textures (Smooth, Smooth v2, BantoBar...) for LibSharedMedia.
+## Version: @project-version@
+## Author: bomi
+## Category: Miscellaneous
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+SharedMediaBasic.lua
